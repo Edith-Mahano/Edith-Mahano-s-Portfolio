@@ -1,6 +1,6 @@
 # Edith Mahano Nabintu's Portfolio 
 
-Hello, I'm Edith Nabintu Mahano!
+Hello, I'm Edith Mahano Nabintu!
 Polyglot | Aspiring Mechanical Engineer | DIY Electronics Enthusiast
 
 I am a lifelong learner currently based in Nairobi, preparing for a future in Mechanical Engineering. I bridge the gap between complex hardware systems and creative digital solutions.
