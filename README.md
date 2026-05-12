@@ -1,4 +1,4 @@
-# Edith Mahano Nabintu's Portfolio 
+# Edith Mahano's Portfolio 
 
 Hello, I'm Edith Mahano Nabintu!
 Polyglot | Aspiring Mechanical Engineer | DIY Electronics Enthusiast
@@ -20,7 +20,6 @@ Description: A robust security system utilizing ultrasonic sensors for intruder 
 
 Tech Stack: Arduino IDE, Ultrasonic Sensors.
 
-View Project Repository | Read Project Summary
 
 2. Automatic Smart Barrier
    
