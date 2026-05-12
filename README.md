@@ -36,5 +36,5 @@ Description: An automated gate system designed for smart parking or gated commun
 
 - Expanding my linguistic portfolio to 6+ languages.
 
-- Let's Connect!
+Let's Connect!
 
